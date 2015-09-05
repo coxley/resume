@@ -1,0 +1,203 @@
+{
+  "basics": {
+    "name": "Codey Oxley",
+    "label": "Infrastructure Engineer",
+    "picture": "https://avatars.githubusercontent.com/coxley",
+    "email": "codey.a.oxley+resume@gmail.com",
+    "phone": "Not publicly available",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "coxley",
+        "url": "https://github.com/coxley"
+      },
+      {
+        "network": "Twitter",
+        "username": "codeyoxley",
+        "url": "http://twitter.com/codeyoxley"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yelp, Inc",
+      "position": "Web Operations Engineer",
+      "website": "http://www.yelp.com/engineering",
+      "startDate": "2015-06-01",
+      "summary": "Yelp connects communities to great local businesses by providing an easy to use platform for sharing consumer experiences.",
+      "highlights": [
+        "Working in-between server and network infrastructure where automation is a must."
+      ]
+    },
+    {
+      "company": "Citynet, LLC",
+      "position": "Infrastructure Engineer",
+      "website": "http://citynet.net",
+      "startDate": "2013-05-13",
+      "endDate": "2015-06-01",
+      "summary": "Citynet is a regional ISP, MSP, and Telecom operator serving much of WV and parts of OH, PA, and VA.",
+      "highlights": [
+        "Streamlined provisioning and shipping process for customer branch offices by over 150%",
+        "Designed and deployed multi-site infrastructures for hundreds of customers",
+        "Focused on automation, both directly against network and managerial tasks",
+        "Built system for easily coordinating changes across 600+ devices with Trigger",
+        "Developed utilities from shell scripts to web applications and cli-tools for management-plane automation and configuration templating",
+        "Experimented with Docker",
+        "Lead new and additional projects, some scaling to over 120 branch offices",
+        "Use of statistical analysis via netflow and snmp to identify and resolve issues",
+        "Deploy and support PE and CE for MPLS L3VPN"
+      ]
+    },
+    {
+      "company": "Citynet, LLC",
+      "position": "Intern of Managed Services",
+      "website": "http://citynet.net",
+      "startDate": "2013-01-28",
+      "endDate": "2013-05-13",
+      "summary": "Citynet is a regional ISP, MSP, and Telecom operator serving much of WV with parts of OH, PA, and VA.",
+      "highlights": [
+        "Streamlined provisioning and shipping process for customer branch offices by over 150%",
+        "Performed investigative audits following terminated employee breach",
+        "Worked directly with COO to plan and overhaul documentation of 50 clients",
+        "Wrote utilities for easier customer VPN access, console server connections, and more"
+      ]
+    },
+    {
+      "company": "Ben Franklin Career & Technical Center",
+      "position": "Intern of Network Administration",
+      "website": "http://benfranklinctc.weebly.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-28",
+      "summary": "Ben Franklin CTC is a vocational school for secondary and post-secondary students, providing great resources to train and employ skilled workers",
+      "highlights": [
+        "Provided networking and system administration for 20 instructional computer labs",
+        "Integrate Linux and related tools as integral part of workflow",
+        "Audited user activity within the network to comply with usage restrictions",
+        "Mantain physical infrastructure via cable runs, patching, and racking equipment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ben Franklin Career & Technical Center",
+      "area": "Computer Networking",
+      "studyType": "Certification",
+      "startDate": "2011-09-01",
+      "endDate": "2012-05-15",
+      "gpa": "4.0",
+      "courses": [
+          "CCNA Discovery 1",
+          "CCNA Discovery 2",
+          "CCNA Discovery 3",
+          "CCNA Discovery 4"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Internetworking 1st",
+      "date": "2013-04-01",
+      "awarder": "Skills USA",
+      "summary": "State competition held in West Virginia"
+    },
+    {
+      "title": "Internetworking 3rd",
+      "date": "2013-06-24",
+      "awarder": "Skills USA",
+      "summary": "National competition held in Kansas City, MO"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Routing",
+      "level": "Advanced",
+      "keywords": [
+        "Cisco",
+        "Juniper",
+        "OSPF",
+        "BGP",
+        "ECMP",
+        "AnyCast"
+      ]
+    },
+    {
+      "name": "Switching",
+      "level": "Advanced",
+      "keywords": [
+        "Destroyer of VTP",
+        "802.1Q",
+        "STP",
+        "LAG",
+        "Stacking",
+        "PVLAN",
+        "L2 Security"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Advanced",
+      "keywords": [
+        "IPsec",
+        "Stateful filtering",
+        "Stateless filtering",
+        "ASA and SRX"
+      ]
+    },
+    {
+      "name": "Systems Infrastructure",
+      "level": "Intermediate",
+      "keywords": [
+        "UNIX",
+        "Python",
+        "Git",
+        "Puppet",
+        "Docker",
+        "DDoS Prevention/Mitigation"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Moderate",
+      "keywords": [
+        "Python",
+        "Flask",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Can read Kana"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Fun",
+      "keywords": [
+        "Art",
+        "Boardgames",
+        "Juggling"
+      ]
+    },
+    {
+      "name": "Practical",
+      "keywords": [
+        "Cooking"
+      ]
+    }
+  ]
+}
