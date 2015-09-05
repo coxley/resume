@@ -21,6 +21,10 @@
         "url": "https://github.com/coxley"
       },
       {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/pub/codey-oxley/55/875/151"
+      },
+      {
         "network": "Twitter",
         "username": "codeyoxley",
         "url": "http://twitter.com/codeyoxley"
@@ -35,7 +39,13 @@
       "startDate": "2015-06-01",
       "summary": "Yelp connects communities to great local businesses by providing an easy to use platform for sharing consumer experiences.",
       "highlights": [
-        "Working in-between server and network infrastructure where automation is a must."
+        "Use Ansible to increase predictability of network configuration changes",
+        "Elastic resource for both Systems and Networking teams",
+        "Collaboratively meet deadlines across teams",
+        "Deprecate legacy datacenter",
+        "Re-engineer proxies for internal services to eliminate SPOFs",
+        "Write, deploy, and distribute Docker services to production",
+        "Transition from legacy spreadsheet IPAM to highly-available source of truth"
       ]
     },
     {
@@ -65,7 +75,6 @@
       "endDate": "2013-05-13",
       "summary": "Citynet is a regional ISP, MSP, and Telecom operator serving much of WV with parts of OH, PA, and VA.",
       "highlights": [
-        "Streamlined provisioning and shipping process for customer branch offices by over 150%",
         "Performed investigative audits following terminated employee breach",
         "Worked directly with COO to plan and overhaul documentation of 50 clients",
         "Wrote utilities for easier customer VPN access, console server connections, and more"

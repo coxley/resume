@@ -19,4 +19,4 @@ test:
 	resume test $@
 
 clean:
-	git-clean
+	git clean -f
