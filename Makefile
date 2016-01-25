@@ -20,3 +20,5 @@ test:
 
 clean:
 	git clean -f
+
+all: test pages html pdf

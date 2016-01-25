@@ -128,7 +128,7 @@
   "skills": [
     {
       "name": "Routing",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Cisco",
         "Juniper",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Switching",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Destroyer of VTP",
         "802.1Q",
@@ -153,7 +153,7 @@
     },
     {
       "name": "Security",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "IPsec",
         "Stateful filtering",
